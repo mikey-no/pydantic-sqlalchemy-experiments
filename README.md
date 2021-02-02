@@ -1,4 +1,4 @@
-#Simple test Application to test using SQLAlchemy and Pydantic (database update)
+# Simple test Application to test using SQLAlchemy and Pydantic (database update)
 
 This application started here [pydantic-sqlalchemy](https://github.com/tiangolo/pydantic-sqlalchemy).
 I am not fully satisfied with the comments I have added to the test_update function. I wanted to provide clear 
