@@ -25,7 +25,7 @@ Clone the repository
 ```commandline
 python -m venv venv
 venv\scripts\activate.bat
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 # To run
