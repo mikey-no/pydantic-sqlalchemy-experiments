@@ -1,9 +1,5 @@
 # Simple test Application to test using SQLAlchemy and Pydantic (database update)
 
-This application started here [pydantic-sqlalchemy](https://github.com/tiangolo/pydantic-sqlalchemy).
-I am not fully satisfied with the comments I have added to the test_update function. I wanted to provide clear 
-information about what is going on.
-
 ## Purpose of this application is to:
 - Improve my understanding of SQLAlchemy and Pydantic
 - Help work out the details of database partial update
@@ -17,6 +13,10 @@ information about what is going on.
 - Uses an in memory sqlite database [1]
 - Uses the SQLAlchemy declarative model definition, not the imperative definition as used by [Mr-Manna FastAPI CRUD](https://github.com/Mr-Manna/FastAPI-CRUD)
 - It just uses pip (simple as can be)
+
+This application started here [pydantic-sqlalchemy](https://github.com/tiangolo/pydantic-sqlalchemy).
+I am not fully satisfied with the comments I have added to the test_update function. I wanted to provide clear 
+information about what is going on.
 
 # To setup
 
