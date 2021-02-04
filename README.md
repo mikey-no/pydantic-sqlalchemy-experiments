@@ -3,7 +3,7 @@
 ## Purpose of this application is to:
 - Improve my understanding of SQLAlchemy and Pydantic
 - Help work out the details of database partial update
-- To record how to do this for future reference in a number of [FastAPI](https://fastapi.tiangolo.com/)
+- To record how to do this for future reference in a number of [FastAPI](https://fastapi.tiangolo.com/) apps
 - To provide a basis for further work and experiments
 - Might help someone else - the lack of update in the [FastAPI SQLAlchemy](https://fastapi.tiangolo.com/tutorial/sql-databases/) demo application was/is a problem for me but this  
 [New pull request may help](https://github.com/tiangolo/fastapi/pull/2665) from akihiro-inui
