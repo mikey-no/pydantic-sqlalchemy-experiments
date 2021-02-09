@@ -125,7 +125,7 @@ def update_user(db: Session, user: PydanticUserUpdate):
     """
     Using a new update method seen in FastAPI https://github.com/tiangolo/fastapi/pull/2665
     Simple, does not need each attribute to be updated individually
-    Uses python in built functionality... preferred to the pydintic related method above
+    Uses python in built functionality... preferred to the pydintic related method
     """
 
     # get the existing data
