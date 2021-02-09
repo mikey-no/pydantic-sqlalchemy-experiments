@@ -14,7 +14,7 @@ engine = create_engine("sqlite://", echo=False)  # this does not work in FastAPI
 create_now = datetime.utcnow()  # fake created time - making testing consistency easier
 modified_now = datetime.utcnow()  # fake last modified time
 
-# show extra print statements
+# show extra print statements default off False
 __SHOW__ = False
 
 """
